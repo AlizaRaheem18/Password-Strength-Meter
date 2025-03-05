@@ -7,8 +7,8 @@ st.set_page_config(page_title="Password Strength Meter by Aliza", page_icon="ðŸŒ
 st.markdown("""
  <style>
       .main{text-align: center;}
-      .stTextInput {justify-content: center; width: 60% !important; margin: auto;}
-     .stButton button {width:50%; background-color: blue; color: white; font-size:18px;}
+      .stTextInput {justify-content: center; width: 100% !important;}
+     .stButton button {width:30%; background-color: blue; color: white; font-size:18px;}
      .stButton button:hover { background-color: red; color:white;}
  </style>
 
